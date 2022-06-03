@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+      <title>AT&#x26;T</title>
+      <link>qfjdkfjdk</link>
+      <atom:link href="http://dallas.example.com/rss.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://lukesmith.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+      <description>Liftoff to Space Exploration.</description>
+      <language>en-us</language>
+      <pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
+      <lastBuildDate>Tue, 10 Jun 2003 09:41:01 MST</lastBuildDate>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+      <generator>Weblog Editor 2.0</generator>
+      <managingEditor>editor@example.com</managingEditor>
+      <webMaster>webmaster@example.com ()</webMaster>
+      <category domain="dmoz">News/Newspapers/Regional/United_States/Texas</category>
+      <category domain="dmz">News/Newspapers/Regional</category>
+      <cloud domain="server.example.com" path="/rpc" port="80" protocol="xml-rpc" registerProcedure="cloud.notify" />
+      <rating>(PICS-1.1 "http://www.rsac.org/ratingsv01.html" l by "webmaster@example.com" on "2007.01.29T10:09-0800" r (n 0 s 0 v 0 l 0))</rating>
+      <skipDays>
+         <day>Saturday</day>
+         <day>Sunday</day>
+      </skipDays>
+      <skipHours>
+         <hour>0</hour>
+         <hour>1</hour>
+         <hour>2</hour>
+         <hour>22</hour>
+         <hour>23</hour>
+      </skipHours>
+      <ttl>60</ttl>
+      <image>
+         <link>http://dallas.example.com</link>
+         <title>Dallas Times-Herald</title>
+         <url>http://dallas.example.com/masthead.gif</url>
+         <description>Read the Dallas Times-Herald</description>
+         <height>32</height>
+         <width>96</width>
+      </image>
+      <item>
+         <title>AT&#x26;T</title>
+         <pubDate>Thu, 04 Oct 2007 23:59:45 +0000</pubDate>
+         <description>I'm headed for France. I wasn't gonna go this year, but then last week &lt;a href="http://www.imdb.com/title/tt0086525/"&gt;Valley Girl&lt;/a&gt; came out and I said to myself, Joe Bob, you gotta get out of the country for a while.</description>
+         <enclosure length="24986239" type="audio/mpeg" url="http://dallas.example.com/joebob_050689.mp3" />
+         <source url="http://la.example.com/rss.xml">Los Angeles Herald-Examiner</source>
+      </item>
+      <item>
+         <title>Bill &#x26; Ted's Excellent Adventure</title>
+         <pubDate>Thu, 04 Oct 2007 23:59:45 -0000</pubDate>
+         <description><![CDATA[I'm headed for France. I wasn't gonna go this year, but then last week <a href="http://www.imdb.com/title/tt0086525/">Valley Girl</a> came out and I said to myself, Joe Bob, you gotta get out of the country for a while.]]></description>
+      </item>
+      <item>
+         <title>The &#x26;amp; entity</title>
+         <pubDate>Thu, 04 Oct 2007 23:59:45 GMT</pubDate>
+      </item>
+      <item>
+         <title>I &#x3C;3 Phil Ringnalda</title>
+      </item>
+      <item>
+         <title>A &#x3C; B</title>
+      </item>
+      <item>
+         <title>A&#x3C;B</title>
+      </item>
+      <item>
+         <title>Nice &#x3C;gorilla&#x3E; what's he weigh?</title>
+      </item>
+   </channel>
+</rss>

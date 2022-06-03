@@ -1,0 +1,23 @@
+right now:
+    - install qemu
+    - use new golang!!!!
+    - structure my code for reuse and proper testing
+    - write some test code
+    - try showing page using telegra.ph api
+    - what would be if I used tags not listed as available in telegra.ph api?
+
+
+    - []Item vs []*Item. Are they different in space?
+
+    - implement a view of an item when you select one(Just title? Using telegra.ph? Try as many variants as possible using git branches.)
+    - entry -> element (use more generic name?)
+    - https://go.googlesource.com/proposal/+/refs/heads/master/design/43651-type-parameters.md#type-sets
+    - try using go 1.18 and generics
+notes:
+    - Try to do feed list more efficiently(preallocate an array of EntriesPerPage elements)
+    - provide clear interface through telegram bot(add all commands and imagine what should be displayed) 
+    - store data in internal memory for now(map)
+    - what about security concerns due to malicious clients?
+future:
+    - Provide single interface between rss feeds DS and atom feeds DS
+    - Add helper commands to make it easier to get rss feeds from youtube or other sites where it's a little bit obscure. (e.g. /add_youtube, /add_facebook)
